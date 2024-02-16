@@ -35,7 +35,7 @@ To run this application, you will need Python 3.x installed on your system. The 
 6. **Interacting with Plots**: Use the toolbar above the plot to zoom in, pan, or reset the plot view. This allows for detailed examination of specific frequency components.
 
 ## Appearance
-![Screenshot of Application](/images/AppScreenshot_SpeakerMeasurement.png "Screenshot of Audio Measurement Application")
+![AppScreenshot_SpeakerMeasurement](https://github.com/SrikarWritesCode/Wavy/Images/AppScreenshot_SpeakerMeasurement.png)
 
 
 ## Customization
