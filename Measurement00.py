@@ -13,19 +13,6 @@ class MeasurementController:
         self.chunk = chunk
         self.record_seconds = record_seconds
         self.frames = []
-
-    # def record_audio(self):
-    #     p = pyaudio.PyAudio()
-    #     stream = p.open(format=self.format, channels=self.channels, rate=self.rate, input=True, frames_per_buffer=self.chunk)
-    #     print("Recording...")
-    #     for i in range(0, int(self.rate / self.chunk * self.record_seconds)):
-    #         data = stream.read(self.chunk)
-    #         self.frames.append(data)
-    #     print("Finished recording.")
-    #     stream.stop_stream()
-    #     stream.close()
-    #     p.terminate()
-    #     self.save_wave_file()
     
     def record_audio(self):
         self.frames = []  # Ensure frames are reset for each new measurement
