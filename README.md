@@ -35,12 +35,15 @@ To run this application, you will need Python 3.x installed on your system. The 
 6. **Interacting with Plots**: Use the toolbar above the plot to zoom in, pan, or reset the plot view. This allows for detailed examination of specific frequency components.
 
 ## Appearance
-![AppScreenshot_SpeakerMeasurement](https://github.com/SrikarWritesCode/Wavy/Images/AppScreenshot_SpeakerMeasurement.png)
+![AppScreenshot_SpeakerMeasurement](https://github.com/SrikarWritesCode/Wavy/assets/117887199/8d3635c3-d836-4b88-946b-e5783ba0cd67)
+
+
+![AppScreenshot_SpeechFormants](https://github.com/SrikarWritesCode/Wavy/assets/117887199/66da1430-1d6e-4922-834a-8417f47af2d0)
 
 
 ## Customization
 
-The application's appearance and functionality can be customized by modifying the `GUIController.py` and `MeasurementController.py` scripts. This includes changing the audio recording parameters, adjusting the FFT computation, or enhancing the GUI layout and interactivity.
+The application's appearance and functionality can be customized by modifying the `Wavy00.py` and `Measurement00.py` scripts. This includes changing the audio recording parameters, adjusting the FFT computation, or enhancing the GUI layout and interactivity.
 
 ## Known Issues
 
