@@ -35,9 +35,11 @@ To run this application, you will need Python 3.x installed on your system. The 
 6. **Interacting with Plots**: Use the toolbar above the plot to zoom in, pan, or reset the plot view. This allows for detailed examination of specific frequency components.
 
 ## Appearance
+
+Here's a mesurement of a Two-way ported LoudSpeaker
 ![AppScreenshot_SpeakerMeasurement](https://github.com/SrikarWritesCode/Wavy/assets/117887199/8d3635c3-d836-4b88-946b-e5783ba0cd67)
 
-
+Here's a measurement of me speaking diffrent vowels
 ![AppScreenshot_SpeechFormants](https://github.com/SrikarWritesCode/Wavy/assets/117887199/66da1430-1d6e-4922-834a-8417f47af2d0)
 
 
